@@ -1,4 +1,4 @@
-[Cozy][cozy] <YOUR SUPER NEW KONNECTOR NAME>
+[Cozy][cozy] Piwik
 =======================================
 
 What's Cozy?
@@ -8,10 +8,11 @@ What's Cozy?
 
 [Cozy] is a platform that brings all your web services in the same private space. With it, your webapps and your devices can share data easily, providing you with a new experience. You can install Cozy on your own hardware where no one's tracking you.
 
-What's this new konnector?
+What's this konnector?
 --------------------------
 
-<YOUR DESCRIPTION HERE>
+This konnector pulls data from [Piwik](https://piwik.org/) instances ([source code of Piwik](https://github.com/piwik)):
+- Visitor profile
 
 ### Open a Pull-Request
 
