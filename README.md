@@ -12,7 +12,7 @@ What's this konnector?
 --------------------------
 
 This konnector pulls data from [Piwik](https://piwik.org/) instances ([source code of Piwik](https://github.com/piwik)):
-- Visitor profile
+- [Visitor profile](https://piwik.org/docs/user-profile/)
 
 ### Open a Pull-Request
 
